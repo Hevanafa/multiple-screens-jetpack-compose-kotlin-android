@@ -11,5 +11,15 @@ This project includes:
 
 Some details are omitted for exercise, such as:
 - Change **ScreenEnum** & try to make your own routing,
--	Make the top bar title dynamic, you can use either page number or your own state property,
--	Improve the UI, make it pretty & more professional
+- Make the top bar title dynamic, you can use either page number or your own state property,
+- Improve the UI, make it pretty & more professional.
+
+## Preview
+
+![Starting Route](./preview_1.png)
+![Other Route](./preview_2.png)
+
+## Building
+
+1. Start Android Studio Canary build,
+2. Build menu --> Build Bundle / APK --> Build APK.
